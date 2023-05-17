@@ -1,10 +1,16 @@
 ---
 layout: post
-title:  "TEST Post"
-date:   2023-05-17T18:00:00-19:00
-author: MinJi
+title:  "Dummy Post"
+date:   2015-04-18T14:25:52-05:00
+author: Ben Centra
 categories: OpenCV
 ---
 
-테스트 게시글
-test posting
+This is just a dummy post. Lorem ipsum and all the rest.
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
