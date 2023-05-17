@@ -10,17 +10,17 @@ exclude:
 
 # Site settings
 title: space of my studies
-subtitle: "공부한 내용을 적는 공간입니다"
+subtitle: "공부한 내용을 적는 공간"
 email: enddl3224@naver.com
 name: Min Ji
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  웹 백엔드 개발과 자율주행을 위한 영상처리를 공부하고 있습니다.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
-cover: "/assets/header_image.jpg"
+cover: "/assets/header_image.jpeg"
 logo: "/assets/logo.png"
 
 # Build settings
@@ -92,15 +92,15 @@ social:
 
   - name: GitHub
     icon: github
-    username: bencentra
-    url: https://github.com/bencentra
-    desc: Fork me on GitHub
+    username: enddl3224
+    url: https://github.com/enddl3224
+    desc: enddl3224 GitHub
     share: false
 
   - name: LinkedIn
     icon: linkedin
     username: Ben Centra
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
+    url: https://www.linkedin.com/in/mj-kim-262212251/
     desc: Connect with me on LinkedIn
     share: true
 
@@ -120,8 +120,8 @@ social:
 
   - name: Instagram
     icon: instagram
-    username: ""
-    url: ""
+    username: "min.j_iii"
+    url: "https://www.instagram.com/min.j_iii/"
     desc: Follow me on Instagram
     share: false
 
