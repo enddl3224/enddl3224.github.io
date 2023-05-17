@@ -13,9 +13,10 @@ title: space of my studies
 subtitle: "공부한 내용을 적는 공간"
 email: enddl3224@naver.com
 name: Min Ji
-description: >
+description: |
   웹 백엔드,
   자율주행을 위한 영상처리,
+  
   공부중...
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
