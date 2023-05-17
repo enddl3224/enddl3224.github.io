@@ -14,14 +14,16 @@ subtitle: "공부한 내용을 적는 공간"
 email: enddl3224@naver.com
 name: Min Ji
 description: >
-  웹 백엔드 개발과 자율주행을 위한 영상처리를 공부하고 있습니다.
+  웹 백엔드,
+  자율주행을 위한 영상처리,
+  공부중...
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpeg"
-logo: "/assets/logo.png"
+logo: "/assets/profile.jpeg"
 
 # Build settings
 markdown: kramdown
@@ -41,10 +43,10 @@ jekyll-archives:
   enabled:
     - categories
     - tags
-  layout: 'archive'
+  layout: "archive"
   permalinks:
-    category: '/category/:name/'
-    tag: '/tag/:name/'
+    category: "/category/:name/"
+    tag: "/tag/:name/"
 
 # Disqus comments
 # disqus_shortname: bencentra
@@ -76,20 +78,6 @@ descriptions:
 #     desc: Follow me on Twitter            # Description to display as link title, etc
 #     share: true                           # Include in the "Share" section of posts
 social:
-  # - name: Twitter
-  #   icon: twitter
-  #   username: TheBenCentra
-  #   url: https://twitter.com/TheBenCentra
-  #   desc: Follow me on Twitter
-  #   share: true
-
-  # - name: Facebook
-  #   icon: facebook
-  #   username: thebencentra
-  #   url: ""
-  #   desc: Friend me on Facebook
-  #   share: true
-
   - name: GitHub
     icon: github
     username: enddl3224
@@ -99,7 +87,7 @@ social:
 
   - name: LinkedIn
     icon: linkedin
-    username: Ben Centra
+    username: Kim MinJi
     url: https://www.linkedin.com/in/mj-kim-262212251/
     desc: Connect with me on LinkedIn
     share: true
@@ -129,13 +117,13 @@ social:
 # These are for automatically generating sharing metadata for FB and Twitter
 # OS Protocol is for sharing the source of your site, if you're interested. For more, see osprotocol.com
 protocols:
-    fb_image: "/assets/logo.png"
-    fb_image_width: 612
-    fb_image_height: 605
-    fb_image_type: "image/png"
+  fb_image: "/assets/logo.png"
+  fb_image_width: 612
+  fb_image_height: 605
+  fb_image_type: "image/png"
 
-    twitter_image: "/assets/logo.png"
+  twitter_image: "/assets/logo.png"
 
-    os_repo: "https://github.com/bencentra/centrarium.com"
-    os_rcs_type: "git"
-    os_src: "git@github.com:bencentra/centrarium.com.git"
+  os_repo: "https://github.com/bencentra/centrarium.com"
+  os_rcs_type: "git"
+  os_src: "git@github.com:bencentra/centrarium.com.git"
